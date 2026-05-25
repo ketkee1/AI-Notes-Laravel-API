@@ -100,5 +100,4 @@ Add screenshots of:
 ## Author
 Ketkee Wankar
 Software Developer
-Your Name
 
